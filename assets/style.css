@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  max-width: 400px;
+  margin: 50px auto;
+}
+.input-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+input {
+  flex: 1;
+  padding: 6px;
+}
+button {
+  padding: 6px 10px;
+  cursor: pointer;
+}
